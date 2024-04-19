@@ -1,0 +1,12 @@
+.text{
+    color: tomato;
+    background-color: yellow;
+}
+.bg-blue{
+        background-color: blueviolet;
+    }
+
+    .bg-yellow{
+        color: white;
+        background-color: blue;
+    }
